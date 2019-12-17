@@ -1,0 +1,24 @@
+{
+  "name": "start_for_the_site",
+  "description": "Start npm, bower, grunt for the site",
+  "main": "Gruntfile.js",
+  "authors": [
+    "ProjectSoft <projectsoft2009@yandex.ru>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/STUDIONIONS/ev_start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.4.1",
+    "fancybox": "^3.5.7",
+    "slick-carousel": "^1.8.1",
+    "normalize.css": "^8.0.1",
+    "js-cookie": "^2.2.1"
+  }
+}
